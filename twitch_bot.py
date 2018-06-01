@@ -26,7 +26,6 @@ locker=threading.Lock()
 
 url = 'https://api.twitch.tv/helix'
 client_id = ''     # https://dev.twitch.tv/dashboard/apps/create
-secret_token = ''  # https://dev.twitch.tv/dashboard/apps/create
 login = ''                               # https://twitchapps.com
 oauth = ''         # https://twitchapps.com/tmi/
 channel=''                                 # https://www.twitch.tv/directory/all
